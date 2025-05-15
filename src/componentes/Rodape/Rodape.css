@@ -1,0 +1,17 @@
+footer {
+    background: #6278F7;
+    color: #FFF;
+    padding: 80px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.redeSociais img{
+    display: inline-block;
+    padding-right: 32px;
+}
+
+.redeSociais a {
+    margin-right: 0;
+}
